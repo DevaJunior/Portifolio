@@ -1,0 +1,38 @@
+.skills-item {
+  display: flex;
+  width: 200px;
+  align-items: center;
+  margin: 0px 10px 0 10px;
+}
+
+.skills-item :hover {
+  color: #fff;
+}
+
+.container-skills ul {
+  margin-top: 50px;
+  color: white;
+  display: flex;
+  background-color: #252525;
+}
+
+.skills-img {
+  width: 50px;
+  height: 50px;
+}
+
+.container-skills p {
+  margin-left: 10px;
+  color: #bbbbbb;
+  background-color: #252525;
+  width: 50%;
+}
+
+@media (max-width: 1025px) {
+  .skills-item {
+    width: 50px;
+  }
+  .container-skills p {
+    display: none;
+  }
+}
