@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portifolio/static/css/main.03d7a1fb.css",
+    "main.js": "/Portifolio/static/js/main.b601bfc0.js",
+    "static/media/wpp-app-biogen.png": "/Portifolio/static/media/wpp-app-biogen.07b1019bd1c118fed83b.png",
+    "static/media/wpp-app-spotted.png": "/Portifolio/static/media/wpp-app-spotted.d7a9052e9fc61f4ba43f.png",
+    "static/media/logo-react.png": "/Portifolio/static/media/logo-react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/logo-python.png": "/Portifolio/static/media/logo-python.d07fc9c0124bb43a75ab.png",
+    "static/media/logo-sql.png": "/Portifolio/static/media/logo-sql.2f58fbdfc31930cace26.png",
+    "static/media/logo-figma.png": "/Portifolio/static/media/logo-figma.102553606df4e3ab9081.png",
+    "static/media/logo-typescript.png": "/Portifolio/static/media/logo-typescript.a4a9cce67862652f750f.png",
+    "static/media/wpp-app-portifolio.png": "/Portifolio/static/media/wpp-app-portifolio.cf0a0e86d32bfed9e066.png",
+    "static/media/logo-bootstrap.png": "/Portifolio/static/media/logo-bootstrap.a90407621811a89b3000.png",
+    "static/media/logo-java.png": "/Portifolio/static/media/logo-java.fa90238ee7f3b5565d52.png",
+    "static/media/logo-javascript.png": "/Portifolio/static/media/logo-javascript.962f06fd9db80f9f38ce.png",
+    "static/media/logo-vue.png": "/Portifolio/static/media/logo-vue.856158549093e4cd2042.png",
+    "static/media/logo-css.png": "/Portifolio/static/media/logo-css.3cc70308f3c00ebfc302.png",
+    "static/media/contact-email.png": "/Portifolio/static/media/contact-email.c5a348b2be7b0d88e5cf.png",
+    "static/media/logo-scrum.png": "/Portifolio/static/media/logo-scrum.5af660b03a2830ad71b0.png",
+    "static/media/logo-git.png": "/Portifolio/static/media/logo-git.a6c5293673c70fb4b829.png",
+    "static/media/logo-html.png": "/Portifolio/static/media/logo-html.d0ca6d49583705742e9e.png",
+    "static/media/logo-kotlin.png": "/Portifolio/static/media/logo-kotlin.293e69a6b0de36653db0.png",
+    "static/media/logo-firebase.png": "/Portifolio/static/media/logo-firebase.9cb44a5c305f7c52c6f7.png",
+    "static/media/logo-c.png": "/Portifolio/static/media/logo-c.7ed540679c4f3943e5fc.png",
+    "static/media/img-tag.png": "/Portifolio/static/media/img-tag.42503cb1770f50b39e21.png",
+    "index.html": "/Portifolio/index.html",
+    "main.03d7a1fb.css.map": "/Portifolio/static/css/main.03d7a1fb.css.map",
+    "main.b601bfc0.js.map": "/Portifolio/static/js/main.b601bfc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03d7a1fb.css",
+    "static/js/main.b601bfc0.js"
+  ]
+}
