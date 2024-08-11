@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portifolio/static/css/main.c37ac638.css",
+    "main.css": "/Portifolio/static/css/main.45beb716.css",
     "main.js": "/Portifolio/static/js/main.b601bfc0.js",
     "static/media/wpp-app-biogen.png": "/Portifolio/static/media/wpp-app-biogen.07b1019bd1c118fed83b.png",
     "static/media/wpp-app-spotted.png": "/Portifolio/static/media/wpp-app-spotted.d7a9052e9fc61f4ba43f.png",
@@ -24,11 +24,11 @@
     "static/media/logo-c.png": "/Portifolio/static/media/logo-c.7ed540679c4f3943e5fc.png",
     "static/media/img-tag.png": "/Portifolio/static/media/img-tag.42503cb1770f50b39e21.png",
     "index.html": "/Portifolio/index.html",
-    "main.c37ac638.css.map": "/Portifolio/static/css/main.c37ac638.css.map",
+    "main.45beb716.css.map": "/Portifolio/static/css/main.45beb716.css.map",
     "main.b601bfc0.js.map": "/Portifolio/static/js/main.b601bfc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c37ac638.css",
+    "static/css/main.45beb716.css",
     "static/js/main.b601bfc0.js"
   ]
 }
